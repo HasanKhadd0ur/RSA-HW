@@ -8,7 +8,7 @@ PYTHON = python
 run:
 	$(PYTHON) main.py 
 
-# Run the demo script
+# Run the demo
 demo:
 	$(PYTHON) demo.py
 
