@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+env/
+venv/
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Distribution / packaging
+.Python
+*.tar.gz
+*.zip
+
+# Unit test / coverage reports
+htmlcov/
+*.cover
+*.coverage
+*.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.lcov
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE settings and project files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# MacOS files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+Thumbs.db
+desktop.ini
+
+# Config files
+.env
+*.ini
+*.cfg
+
+# Makefile artifacts
+*.d
+*.o
+*.out
