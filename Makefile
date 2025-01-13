@@ -1,12 +1,12 @@
 # Compiler and Flags
-PYTHON = python3
+PYTHON = python
 
 # Targets
 .PHONY: all run demo clean
 
 # Run the main program
 run:
-	$(PYTHON) main.py
+	$(PYTHON) main.py 
 
 # Run the demo script
 demo:
